@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lab(90.02% -4.32 32.06);
+    color: #ff4f4f;
+    margin: 0;
+    padding: 80px;
+    text-align: center;
+}
+header {
+    background-color: #050202;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+.tarjeta {
+    background-color: #afacac;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+}
